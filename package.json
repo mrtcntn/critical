@@ -46,7 +46,7 @@
     "meow": "^9.0.0",
     "oust": "^1.2.0",
     "p-all": "^3.0.0",
-    "penthouse": "^2.3.2",
+    "penthouse": "https://github.com/mrtcntn/penthouse#v2.3.4",
     "plugin-error": "^1.0.1",
     "postcss": "^8.3.0",
     "postcss-discard": "^2.0.0",
