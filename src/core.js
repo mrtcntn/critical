@@ -72,7 +72,7 @@ function callPenthouse(document, options) {
   }
 
   return sizes.map(({width, height}) => () => {
-    const result = penthouse({...config, width, height});
+    const result = penthouse({...config, width, height, strict: false});
     debug('Call penthouse with:', {
       ...config,
       width,
